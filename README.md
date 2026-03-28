@@ -1,4 +1,4 @@
-# c-programs
+# c-programs- To find a palindrome number
 #include<stdio.h>
 int main(){
 int n,rev=0,rem,temp;
